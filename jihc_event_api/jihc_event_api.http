@@ -1,0 +1,6 @@
+@jihc_event_api_HostAddress = http://localhost:5242
+
+GET {{jihc_event_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
